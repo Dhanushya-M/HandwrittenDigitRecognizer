@@ -44,5 +44,35 @@ jupyter notebook
 
 4.Open and run mnist_digit_recognizer.ipynb
 
+📊 Results
+The CNN achieves an accuracy of ~98% on the MNIST test dataset.
+
+
+
+🗂️ Dataset
+MNIST Dataset — from Yann LeCun.
+
+Preloaded automatically using Keras datasets.
+
+✅ Project Highlights
+✅ Learn how to build and train a simple CNN.
+
+✅ Understand basic image preprocessing and normalization.
+
+✅ Visualize training accuracy & test results.
+
+✅ Great starter project for computer vision.
+
+📜 License
+This project is open-source under the MIT License.
+
+✨ Author
+Dhanushya M
+
+GitHub
+
+⭐️ Show Some Love
+If you found this helpful, feel free to ⭐️ star this repository and share it! 😊
+
 
 
